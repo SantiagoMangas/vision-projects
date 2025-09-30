@@ -1,10 +1,10 @@
 # Detector de Distancias en Hoja A4
 
-Este proyecto implementa un sistema de visión por computadora que detecta automáticamente los bordes de una hoja A4 usando triángulos de referencia y mide la distancia de objetos (óvalos) a los bordes de la hoja en milímetros reales.
+Este script implementa un sistema de visión por computadora que detecta automáticamente los bordes de una hoja A4 usando triángulos de referencia y mide la distancia de objetos (óvalos) a los bordes de la hoja en milímetros reales.
 
 ## 📋 Descripción General
 
-El sistema funciona detectando triángulos marcadores colocados en las esquinas de una hoja A4. A partir de estos marcadores, calcula automáticamente el cuarto vértice faltante (si solo hay 3 triángulos) y establece un sistema de referencia para convertir píxeles a milímetros, permitiendo mediciones precisas de distancias.
+El script funciona detectando triángulos marcadores colocados en las esquinas de una hoja A4. A partir de estos marcadores, calcula automáticamente el cuarto vértice faltante (si solo hay 3 triángulos) y establece un sistema de referencia para convertir píxeles a milímetros, permitiendo mediciones precisas de distancias.
 
 ## 🔧 Dependencias
 
